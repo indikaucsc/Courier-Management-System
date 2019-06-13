@@ -1,0 +1,2 @@
+# Courier-Management-System
+This system is designed to provide a package tracking system for the KickStart.lk Courier Company. This system must be able to schedule package pickup and deliveries, cancel customer requests if needed, track each package, record customer information, and provide price estimations for the package based on the package weight. Managers will be able to access the report section of this system for reports on package status, billing/money received, and daily activity summary reports.
